@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="script.wikipedia"
-version="0.0.8"
+version="3.0.8"
 name="Wikipedia"
-provider-name="jurialmunkey">
+provider-name="jurialmunkey, jamal2362">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.beautifulsoup4" version="4.9.3" />
@@ -12,6 +12,8 @@ provider-name="jurialmunkey">
 <extension point="xbmc.addon.metadata">
   <summary lang="en_GB">Access Wikipedia via Kodi</summary>
   <description lang="en_GB">Access Wikipedia via Kodi</description>
+  <summary lang="de_DE">Zugriff auf Wikipedia über Kodi</summary>
+  <description lang="de_DE">Zugriff auf Wikipedia über Kodi</description>
   <license>GPL-3.0-or-later</license>
   <assets>
     <icon>icon.png</icon>
